@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: "/appweb-exer16-v2/",
   title: "Exercice 16",
   description: "Revue de code documentee",
   themeConfig: {
